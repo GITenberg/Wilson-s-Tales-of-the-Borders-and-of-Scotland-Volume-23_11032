@@ -1,5 +1,5 @@
 _repo: Wilson-s-Tales-of-the-Borders-and-of-Scotland-Volume-23_11032
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Wilson, John Mackay
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '32367'
     url: http://www.gutenberg.org/2009/agents/32367
     wikipedia: http://en.wikipedia.org/wiki/John_Mackay_Wilson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Leighton, Alexander
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '32366'
     url: http://www.gutenberg.org/2009/agents/32366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11032#Wilson-s-Tales-of-the-Borders-and-of-Scotland-Volume-23
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
